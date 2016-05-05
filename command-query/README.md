@@ -16,35 +16,35 @@ These exercises focus on these two types of operations.
 
 ## Exercises
 
-- `leather_chair_test.rb`
-- `tire_test.rb`
-- `pills_test.rb`
-- `floor_test.rb`
-- `milk_bottle_test.rb`
-- `person_test.rb`
-- `door_test.rb`
-- `teeth_test.rb`
-- `music_test.rb`
-- `drops_test.rb`
-- `light_test.rb`
-- `baby_test.rb`
-- `kid_test.rb`
-- `beers_test.rb`
-- `teenager_test.rb`
-- `adult_test.rb`
-- `roll_call_test.rb`
-- `santa_test.rb`
-- `dog_test.rb`
-- `children_test.rb`
-- `water_test.rb`
-- `appointments_test.rb`
-- `yak_test.rb`
-- `money_test.rb`
-- `cupcake_test.rb`
-- `student_test.rb`
-- `catalogue_test.rb`
-- `wallet_test.rb`
-- `clearance_test.rb`
+- `leather_chair_test.rb` done
+- `tire_test.rb` done
+- `pills_test.rb`done
+- `floor_test.rb`done
+- `milk_bottle_test.rb`done
+- `person_test.rb`done
+- `door_test.rb`done
+- `teeth_test.rb`done
+- `music_test.rb`done
+- `drops_test.rb`done
+- `light_test.rb`done
+- `baby_test.rb`done
+- `kid_test.rb`done
+- `beers_test.rb`done
+- `teenager_test.rb`done
+- `adult_test.rb`done
+- `roll_call_test.rb`done
+- `santa_test.rb`done
+- `dog_test.rb`done
+- `children_test.rb`done
+- `water_test.rb`done
+- `appointments_test.rb`done
+- `yak_test.rb`done
+- `money_test.rb`done
+- `cupcake_test.rb`done
+- `student_test.rb`done
+- `catalogue_test.rb`done
+- `wallet_test.rb`done
+- `clearance_test.rb`done
 
 ## Go make up more
 

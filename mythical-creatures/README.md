@@ -4,15 +4,15 @@ A collection of simple exercises to practice Ruby and TDD
 
 ## Suggested Order
 
-* `unicorn_test.rb`
-* `vampire_test.rb`
-* `dragon_test.rb`
-* `hobbit_test.rb`
-* `pirate_test.rb`
-* `wizard_test.rb`
-* `medusa_test.rb`
-* `werewolf_test.rb`
-* `centaur_test.rb`
+* `unicorn_test.rb`done
+* `vampire_test.rb`done
+* `dragon_test.rb`done
+* `hobbit_test.rb`done
+* `pirate_test.rb`done
+* `wizard_test.rb`done
+* `medusa_test.rb`last test wont pass
+* `werewolf_test.rb`last test wont pass
+* `centaur_test.rb`four test unable to pass
 
 ## Extra Challenges
 
